@@ -92,7 +92,3 @@ Mr. Frank Cicchello for their support and guidance in this project.
 [2]: http://bottlepy.org/docs/dev/index.html
 [3]: http://pubsub.sourceforge.net/
 [4]: https://github.com/RFduino/RFduino/blob/master/README.md
-
-*[IoT]: Internet of Things
-*[CEI]: Centre for Engineering Innovation
-*[BLE]: Bluetooth Low Energy
